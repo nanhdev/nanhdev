@@ -81,10 +81,10 @@ print(me.say_hi())
 
 ---
 
-## 📊 **Github Stats**
+## 📊 **State**
 
 <details open>
-<summary><b>📈 Detailed Statistics</b></summary>
+<summary><b>Detail</b></summary>
 <br>
 
 <div align="center">
@@ -108,7 +108,7 @@ print(me.say_hi())
 
 ---
 
-## 🎯 **Phát triển **
+## 🎯 **Phát triển**
 
 <div align="center">
 
@@ -158,7 +158,7 @@ print(me.say_hi())
 
 <div align="center">
   <a href="https://github.com/nanhdev">
-    <img src="https://raw.githubusercontent.com/nanhdev/nanhdev/refs/heads/main/workflows/snake.yml" alt="Snake animation" />
+    <img src="/workflows/snake.yml" alt="Snake animation" />
   </a>
 </div>
 
