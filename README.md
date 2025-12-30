@@ -1,5 +1,3 @@
-<a href="https://github.com/nanhdev"><img src="/img/bgmutsumi.webp/"></a>
-
 <div align="center">
   <a href="https://discord.gg/P8gGP2zyUq"><img width="425" src="https://cdn.discordapp.com/attachments/1067799353663696987/1455542222031425606/image.png?ex=69551ad4&is=6953c954&hm=11c85a63e84f86fbc9540edd1ffd2c071973fc6a97468dec1054014afbeaaf9a&"></a>
 </div>
