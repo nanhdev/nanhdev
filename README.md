@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 💫 **Introduce**
+## 💫 **Giới thiệu**
 
 ```python
 class LeNgocAnh:
@@ -37,7 +37,7 @@ class LeNgocAnh:
         self.learning = ["React", "Django", "Machine Learning"]
         
     def say_hi(self):
-        return "Thanks for visiting! Let's build something amazing! 🚀"
+        return "Cảm ơn vì đã đến với tôi !"
 
 me = LeNgocAnh()
 print(me.say_hi())
@@ -45,7 +45,7 @@ print(me.say_hi())
 
 <br>
 
-## 🚀 **Tech Stack & Skills**
+## 🚀 **Kĩ năng - TechSkills**
 
 <div align="center">
 
@@ -90,8 +90,6 @@ print(me.say_hi())
 <div align="center">
   <a href="https://github.com/nanhdev">
     <img height="180em" src="https://github-readme-stats-rimueirnarn.vercel.app/api?username=nanhdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanhdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
-  </a>
 </div>
 
 <div align="center">
