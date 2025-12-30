@@ -140,7 +140,7 @@ print(me.say_hi())
 
 <div align="center">
   <a href="https://github.com/nanhdev">
-    <img src="https://open.spotify.com/playlist/6UhrWgGwAxwdXwPgIYT0lD?si=VDhnp_ySSw65uA65BOuKTA" alt="My Spotify" />
+    <img src="https://media.discordapp.net/attachments/1067799353663696987/1455549047057420320/Anh_chup_man_hinh_2025-12-30_183710.png?ex=6955212f&is=6953cfaf&hm=87a5abb6af47b9355c5bdca2f5cc6b39d01e4b89e52fe428d5d05a353d9a148a&=&format=webp&quality=lossless&width=700&height=703" alt="My Spotify" />
   </a>
 </div>
 
@@ -158,7 +158,7 @@ print(me.say_hi())
 
 <div align="center">
   <a href="https://github.com/nanhdev">
-    <img src="/workflows/snake.yml" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/salwater/salwater/output/snake.svg" alt="Snake animation" />
   </a>
 </div>
 
