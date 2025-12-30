@@ -103,23 +103,6 @@ print(me.say_hi())
 </div>
 
 </details>
-
----
-
-## 🎯 **Phát triển**
-
-<div align="center">
-
-| 🎯 Goals 2025 | Status | 📝 Notes |
-|--------------|--------|----------|
-| Master Python Advanced | 🔄 In Progress | Learning OOP, Async/Await |
-| Build Full-Stack Projects | 🔄 In Progress | Working on portfolio |
-| Contribute to Open Source | ⏳ Planned | Finding good first issues |
-| Learn Machine Learning | 📚 Learning | Starting with basics |
-| Improve English Skills | 🔄 In Progress | Practice daily |
-
-</div>
-
 --
 ## 📫 **Connect Me**
 
@@ -131,17 +114,6 @@ print(me.say_hi())
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhle4997@gmail.com)
 
 </div>
-
----
-
-## 🎵 **Music to Code**
-
-<div align="center">
-  <a href="https://github.com/nanhdev">
-    <img src="https://media.discordapp.net/attachments/1067799353663696987/1455549047057420320/Anh_chup_man_hinh_2025-12-30_183710.png?ex=6955212f&is=6953cfaf&hm=87a5abb6af47b9355c5bdca2f5cc6b39d01e4b89e52fe428d5d05a353d9a148a&=&format=webp&quality=lossless&width=700&height=703" alt="My Spotify" />
-  </a>
-</div>
-
 ---
 
 ## 💭 **Quote**
