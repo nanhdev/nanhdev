@@ -7,13 +7,11 @@
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nanhdev.nanhdev&left_color=gray&right_color=blueviolet&left_text=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=nanhdev&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/nanhdev?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Learning-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-Quy%20Nhon-success?style=for-the-badge" alt="Location" />
 </p>
-
-
 
 ---
 
@@ -157,4 +155,4 @@ print(me.say_hi())
   
   **Made with ❤️ by Nanh**
   
-</div>
+</div> fix img api  source của activity graph và profile view hiện tại không hiển thị trên git
