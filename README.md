@@ -7,11 +7,12 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nanhdev&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanhdev&count_bg=%23A855F7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
   <img src="https://img.shields.io/github/followers/nanhdev?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Learning-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-Quy%20Nhon-success?style=for-the-badge" alt="Location" />
 </p>
+
 
 ---
 
